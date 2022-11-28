@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^4.18.1",
+    "fast2sms": "^1.0.3",
+    "graceful-fs": "^4.1.15",
+    "javascript-fortuna": "^1.0.10",
+    "msg91": "^0.0.6",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "socket.io": "^2.4.1",
+    "underscore": "^1.13.2",
+    "unirest": "^0.6.0",
+    "urlencode": "^1.1.0"
+  }
+}
